@@ -46,6 +46,8 @@ The dataset was split into train and test partitions. We constructed a Recurrent
 
 The network was trained by setting the batch size, number of epochs, and validation split. Evaluating on the test set yielded approximately **84% accuracy**, confirming reliable sentiment prediction.
 
+Note on Dataset: Due to GitHub's file size limits, the dataset is not hosted directly in this repository. You can download the original dataset from Kaggle - IMDB Dataset of 50K Movie Reviews.
+
 ---
 
 ## Model 4: Image Classification
